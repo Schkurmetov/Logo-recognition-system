@@ -106,6 +106,11 @@ LogoDet-3K (Clothes subset)
 
    • Уверенность модели (probability)
 
+![Image1](https://github.com/Schkurmetov/Logo-recognition-system/blob/main/ImageLRS1.png)
+
+![Image2](https://github.com/Schkurmetov/Logo-recognition-system/blob/main/ImageLRS2.png)
+
+![Image3](https://github.com/Schkurmetov/Logo-recognition-system/blob/main/ImageLRS3.png)
 ## Стек технологий
 Язык:
 
